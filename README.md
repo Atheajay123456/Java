@@ -8,10 +8,10 @@ This project contains simple Java programs demonstrating:
 
   ## How to Compile
 
-- To compile the file:
+- To compile and run the file:
   ```bash
   javac file_name.java
-## How to Run
- - To Run the file:
-   '''bash
-    java file_name
+  java file_name
+
+   
+
