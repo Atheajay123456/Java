@@ -6,7 +6,7 @@ This project contains simple Java programs demonstrating:
 - Education details using classes (`EducationDetails.java`)
 - Family details using classes (`FamilyDetails.java`)
 
-  ## How to Compile
+  ## How to Compile and Run
 
 - To compile and run the file:
   ```bash
