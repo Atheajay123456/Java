@@ -6,5 +6,8 @@ This project contains simple Java programs demonstrating:
 - Education details using classes (`EducationDetails.java`)
 - Family details using classes (`FamilyDetails.java`)
 
-  -To compile the file use command: javac file_name.java
-  -To run the file java file_name
+  ## How to Run
+
+- To compile the file:
+  ```bash
+  javac file_name.java
